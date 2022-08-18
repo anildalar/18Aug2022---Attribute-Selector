@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>CSS Attribute Selector</title>
+        <meta charset="utf-8" />
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <style>
+            /*
+                selector{
+                    property:value;
+                }
+            */
+            div[data-a="good"]{
+               color:red;     
+            }
+            div[data-b="morning"]{
+                color:blue;
+            }
+            div[data-c="how"]{
+                color:orange;
+            }
+            div[data-d]{
+                color:purple;
+            }
+        </style>
+    </head>
+    <body>
+        <div data-a="good">Anil</div>
+        <div data-b="morning">Asif</div>
+        <div data-c="how">Goutam</div>
+        <div data-d="areyou">Souryabhan</div>
+    </body>
+</html>
