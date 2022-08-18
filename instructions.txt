@@ -1,0 +1,28 @@
+W3C - Fouder Tim Berners Lees
+
+world wide web consortium
+
+w3c  - w3c validtor 
+
+https://validator.w3.org/
+
+CSS Selector
+1. ID Selector #
+2. Class Selecctor .
+3. Attribute Selector [attributeName=value]
+
+Custom attribute
+
+<starttag data-<something>="value">content</endtag>
+
+<div data-a="good">Anil</div>
+
+<div data-b="morning">Asif</div>
+
+What deployement ?
+
+
+The process of making our source code live on internet is called
+Deployement
+
+https://anildalar.github.io/18Aug2022---Attribute-Selector/
